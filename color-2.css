@@ -1,0 +1,6 @@
+:root 
+{
+    --gradient-color-bg:linear-gradient(180deg,rgb(247, 1, 1)0%,
+                                                rgb(231, 9, 131)51%,
+                                                rgb(178, 117, 13)100%);
+}
